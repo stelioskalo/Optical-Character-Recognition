@@ -53,3 +53,4 @@ Tensorflow
 
 ## How to run
 This project can run on any notebook, I would suggest running it either on Google Colab or Jupyter.
+Do note that file paths need to be changed.
