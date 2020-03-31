@@ -1,4 +1,4 @@
-# Optical-Character-Recognition
+# Optical Character Recognition
 This project is concerned with Optical Chartacter Recognition consisting of four tasks; Recognising printed characters,
 handwritten characters, to which person a signature belongs to and who wrote a handwritten letter between two people.
 
